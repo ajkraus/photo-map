@@ -14,7 +14,7 @@ A desktop application for viewing and organizing your photos on an interactive m
 
 ## Preview
 
-![PhotoMap Demo](assets/gif/animation.gif)
+![PhotoMap Demo](assets/gif/Animation.gif)
 
 ## Tech Stack
 
